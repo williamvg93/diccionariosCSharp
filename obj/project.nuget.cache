@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rwEkmu664rik9YSn/zds8JKIdhctWt1dO6k1UADyOuhv8SkNNZT+Nj9MlxZOvgYOoLgyIuq4qzqNS7W9odgIqg==",
+  "dgSpecHash": "SyL4q/sATGTVbPUX51uaArHbu+y/w9i6leJ4eDzpF0Pepcf2DTYg7zkEQT08GPjdI07NZEzek/jv1gnvXGU7tQ==",
   "success": true,
-  "projectFilePath": "D:\\Programacion\\Campus2023\\C#\\Class\\diccionariosCSharp\\diccionariosCSharp.csproj",
+  "projectFilePath": "/workspaces/diccionariosCSharp/diccionariosCSharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
